@@ -1,0 +1,12 @@
+GDC
+Copyright 2021-present NAVER Corp.
+
+Source code in this repository is covered by one of two licenses: 
+(i) Creative Commons Attribution Non Commercial Share Alike 4.0 International 
+(ii) the Apache License 2.0.
+The default license throughout the repository is CC BY-NC-SA 4.0 unless the header specifies another license. 
+
+Apache Licensed code is derived from https://github.com/lvwerra/trl/trl.
+- gdc/gdc/core.py
+- gdc/gdc/gpt2.py
+- gdc/gdc/ppo.py
