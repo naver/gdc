@@ -12,7 +12,7 @@ This is the repository code for the ICLR 2021 [paper](https://openreview.net/for
 
 ## Contributors
 Authors of this work have contributed equally to this project and its affiliated publication. 
-Muhammad Khalifa has performed this work during his research internship at Naver Labs Europe.
+Muhammad Khalifa did this work during a research internship at Naver Labs Europe.
 
 
 <img width=35px src="https://i.imgur.com/qLjUWrC.png"> [Muhammad Khalifa](https://mohammadkhalifa.github.io/), muhammad.e.khalifa@gmail.com
