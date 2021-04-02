@@ -1,0 +1,17 @@
+ipython==7.13.0
+ipython-genutils==0.2.0
+neptune-client==0.5.1
+neptune-contrib==0.21.1
+nltk==3.5
+numpy==1.18.2
+pandas==1.0.3
+pathtools==0.1.2
+Pillow==7.1.2
+scipy==1.4.1
+tokenizers==0.5.2
+torch==1.4.0
+torchtext==0.6.0
+tqdm==4.43.0
+sentencepiece==0.1.85
+transformers==2.6.0
+wandb==0.9.5
