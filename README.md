@@ -180,7 +180,7 @@ The first step is to go to `gdc/scorer.py` and in `get_scoring_fn()`, you add an
          # return [1 if a sample containts the letter, otherwise 0 for all samples]
          
    ```
-   You can also add any code that your scorer would need in the __init__() function.
+   You can also add any operations that your custom scorer needs in the __init__() function.
        
 ### Step 2: Set up your Configs
 As you only have a single distributional constraint. you can clone `gdc/configs/distributional/single-distributional.json` and edit the following to add your "z" letter constraint.  
