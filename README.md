@@ -202,7 +202,7 @@ Authors of this work have contributed equally to this project and its affiliated
 Muhammad Khalifa has performed this work during his research internship at Naver Labs Europe.
 
 
-<img width=35px src="https://i.imgur.com/qLjUWrC.png"> [Muhammad Khalifa](https://mohammadkhalifa.github.io/), muhammad.e.khalifa@gmail.com
+<img width=35px src="https://i.imgur.com/qLjUWrC.png"> [Muhammad Khalifa](https://mukhal.github.io/), muhammad.e.khalifa@gmail.com
 
 <img width=35px src="https://i.imgur.com/YLwtSt1.png"> [Hady Elsahar](http://hadyelsahar.io), hady.elsahar@naverlabs.com
 
