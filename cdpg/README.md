@@ -25,3 +25,33 @@ In `configs`, we provide configuration files for the experiments described in th
 * `code_compilability.json` corresponds to the compilable code generation task (section 3.4 in the paper).
 
 In `contexts`, we provide contexts (e.g. source documents for summarization) we used in experiments.
+
+## Contributors
+
+<img width=35px src="https://tomekkorbak.com/images/fotka.jpg"> [Tomasz Korbak](https://tomekkorbak.com), tomasz.korbak@gmail.com
+
+<img width=35px src="https://i.imgur.com/YLwtSt1.png"> [Hady Elsahar](http://hadyelsahar.io), hady.elsahar@naverlabs.com
+
+<img width=35px src="https://pbs.twimg.com/profile_images/1268967379758915593/q0ofGxv9_400x400.jpg"> [Germán Kruszewski](https://germank.github.io/), german.kruszewski@naverlabs.com
+
+<img width=35px src="https://i.imgur.com/gqHaXeG.png"> [Marc Dymetman](https://scholar.google.com/citations?user=D6J5pooAAAAJ&hl=en), marc.dymetman@naverlabs.com
+
+
+## Citation
+
+```bibtex
+@InProceedings{pmlr-v162-korbak22a,
+  title = 	 {Controlling Conditional Language Models without Catastrophic Forgetting},
+  author =       {Korbak, Tomasz and Elsahar, Hady and Kruszewski, German and Dymetman, Marc},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {11499--11528},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/korbak22a/korbak22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/korbak22a.html},
+}
+```

@@ -1,7 +1,7 @@
 
 # A Distributional Approach To Controlled Text Generation 
 
-This is the repository code for the ICLR 2021 [paper](https://openreview.net/forum?id=jWkw45-9AbL) "A Distributional Approach to Controlled Text Generation". The code in this repo should help reproduce all the experiments and results in the paper.
+This directory contains the source code for the ICLR 2021 [paper](https://openreview.net/forum?id=jWkw45-9AbL) "A Distributional Approach to Controlled Text Generation". The code in this directory should help reproduce all the experiments and results in the paper.
 
 <img src="https://i.imgur.com/yN8jHyt.png">
 <img src="https://i.imgur.com/VSFVxGa.png">
