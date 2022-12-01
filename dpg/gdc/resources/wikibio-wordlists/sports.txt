@@ -1,0 +1,9 @@
+footballer
+trainer 
+player
+swimmer
+cyclist
+athlete 
+wrestler
+golfer
+cricketer

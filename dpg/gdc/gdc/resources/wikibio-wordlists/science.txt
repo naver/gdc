@@ -1,0 +1,10 @@
+scientist
+sociologist
+philosopher
+inventor
+student
+astronomer
+historian
+academic
+researcher
+chemist
