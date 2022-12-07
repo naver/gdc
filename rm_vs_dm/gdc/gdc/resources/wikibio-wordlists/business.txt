@@ -1,0 +1,15 @@
+businessman
+businesswoman
+entrepreneur
+chairman
+chairwoman
+governor
+politician
+journalist
+ambassador
+communist
+liberal
+officer
+lawyer
+queen
+king
