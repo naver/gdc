@@ -19,7 +19,7 @@ REQUIRED_NERS = ['PERSON', 'FAC', 'GPE', 'ORG', 'NORP', 'LOC', 'EVENT']
 class Scorer:
 
     """
-    This class defines a scorer that takes a textual input and output a scoring value. 
+    This class defines a scorer that takes a textual input and outputs a scoring value. 
 
     """
 
