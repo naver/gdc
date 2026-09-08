@@ -45,7 +45,7 @@ female_pronouns = ["she", "her", "herself"]
 class Scorer:
 
     """
-    This class defines a scorer that takes a textual input and output a scoring value. 
+    This class defines a scorer that takes a textual input and outputs a scoring value. 
 
     """
 
@@ -77,7 +77,7 @@ class Scorer:
             wordlist_path = os.path.join(pathlib.Path(__file__).parent.absolute(),
                                             './resources/wordlists/', 
                                             self.config['scorer_attribute'] + '.txt')
-            assert os.path.exists(wordlist_path), "Can't found wordlist at {}".format(wordlist_path)
+            assert os.path.exists(wordlist_path), "Can't find wordlist at {}".format(wordlist_path)
             
             with open(wordlist_path) as f:
                 self.wordlist = f.read().split('\n')
@@ -88,7 +88,7 @@ class Scorer:
             wordlist_path = os.path.join(pathlib.Path(__file__).parent.absolute(),
                                             './resources/wikibio-wordlists/', 
                                             self.config['scorer_attribute'] + '.txt')
-            assert os.path.exists(wordlist_path), "Can't found wordlist at {}".format(wordlist_path)
+            assert os.path.exists(wordlist_path), "Can't find wordlist at {}".format(wordlist_path)
             
             with open(wordlist_path) as f:
                 self.wordlist = f.read().split('\n')
@@ -157,7 +157,7 @@ class Scorer:
                     return (preds == self.class_idx).float()
                 else:
                     ## if class idx is an array e.g. [1,2]
-                    #  iterate over all class idx and check if any of the m
+                    #  iterate over all class idx and check if any of them
                     # matches the clf predictions. i.e. logical OR operation
                     res = (preds == self.class_idx[0]).float()
                     for idx in self.class_idx[1:]:
